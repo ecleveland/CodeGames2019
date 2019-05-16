@@ -1,5 +1,3 @@
-using System;
-
 namespace MillerLightUI.Models
 {
     public class ErrorViewModel
